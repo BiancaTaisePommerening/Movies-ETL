@@ -1,3 +1,10 @@
+# adding file
+.DS_Store
+
+#adding large files
+*ratings.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
