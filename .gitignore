@@ -3,7 +3,8 @@
 
 #adding large files
 *ratings.csv
-
+# adding a file.
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
