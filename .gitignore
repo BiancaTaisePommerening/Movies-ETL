@@ -5,6 +5,7 @@
 *ratings.csv
 # adding a file.
 config.py
+COPY_ETL_clean_wiki_movies copy.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
